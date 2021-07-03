@@ -28,6 +28,11 @@
   src: url(static/Raleway-ExtraBold.ttf);
 }
 /* ...................barre de navigation ....................................*/
+.test{width:70px;}
+
+
+
+
 #menu{display: flex;
     flex-direction: row;
     flex:4;
