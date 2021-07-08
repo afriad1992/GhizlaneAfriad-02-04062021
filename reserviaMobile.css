@@ -75,7 +75,9 @@ ul li:hover
   padding-bottom: 15px;
 }
 
-
+nav img{
+	width:60px;
+}
 li:last-child
 {
   position: absolute;
