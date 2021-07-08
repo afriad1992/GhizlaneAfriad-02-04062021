@@ -54,7 +54,6 @@ ul
   width: 100%;
   margin-left: 0;
   padding-left: 0;
-
 }
 ul li:not(:last-child)
 {
@@ -75,9 +74,7 @@ ul li:hover
   padding-bottom: 15px;
 }
 
-nav img{
-	width:60px;
-}
+
 li:last-child
 {
   position: absolute;
@@ -113,6 +110,10 @@ li:hover
 color: #0065FC; 
 text-decoration: none;
 } 
+header img
+{
+  width:60%;
+}
 
 /* ...............les deux phrases apres  la bare de navigation.............. */
 #un{font-family: ralewayBold;
@@ -120,7 +121,7 @@ font-size:medium;
 letter-spacing: initial;}
 #deux,#italic
 {
-  font-family: think-italic;
+ font-family: think-italic;
 font-size:small;
 }
 
