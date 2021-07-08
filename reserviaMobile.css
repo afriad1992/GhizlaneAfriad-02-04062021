@@ -301,35 +301,36 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line)
 /* .................................les plus populaires............................. */
 .grid-nested2 
 {
-  display: grid;
-  grid-template-columns: 100%;
-  grid-template-rows:10% repeat(3,1fr);
-  grid-gap: 1%;
-  background-color:   #F2F2F2;
-  border-radius: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-  order: 1;
-  height: 250px;
-  margin-bottom: 20px;
-  }
-.grid-nested2 > div > div{
-margin:0;  
-padding: 0;
-height: 90px;
+display: grid;
+grid-template-columns: 100%;
+grid-template-rows:10% repeat(3,1fr);
+grid-gap: 1%;
+background-color:   #F2F2F2;
+border-radius: 20px;
+padding-left: 20px;
+padding-right: 20px;
+
 }
-.grid-nested2 div img {
-object-fit: cover;
-width: 35%;
-height:100%;
-border-top-left-radius: 15px ;
-border-bottom-left-radius: 15px ;
+.grid-nested2 > div > div
+{
+  margin:0;
+  padding: 0;
+  height: 70px;
+}
+
+.grid-nested2 div img 
+{
+  object-fit: cover;
+  width: 35%;
+  height:70px;
+  border-top-left-radius: 15px ;
+  border-bottom-left-radius: 15px ;
 }
 .grid-nested2 > div:not(.title2)
 {
   display: flex;
-  height: 50px;
-  padding: 1%;
+  height: 70px;
+  padding: 2%;
 }
 
 .grid-nested2 > div > div .stars
