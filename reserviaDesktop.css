@@ -63,8 +63,9 @@ ul li a:hover
   color: #0065FC; 
   text-decoration: none;
 }  
-
-   
+nav img{
+	width:60px;
+}
 
 /* ..................................barre de recherche..........................*/      
 .search {
