@@ -298,6 +298,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line)
   background-color:white;
   padding: 1%;
 }
+.grid-nested1>.stars{ padding: 0 1% 0 10%;}
 /* .................................les plus populaires............................. */
 .grid-nested2 
 {
