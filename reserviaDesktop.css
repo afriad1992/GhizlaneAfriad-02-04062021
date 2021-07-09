@@ -352,12 +352,13 @@ height: 75%;
     border-top-left-radius: 15px ;
     margin:auto;
   }
- .grid-nested1 div:not(.title1,.title),.wraper1 div:not(.title1)
+ .grid-nested1>div:not(.title1,.title),.wraper1>div:not(.title1)
   {
     border-radius: 15px;
     background-color:white;
     padding: 2%;
   }
+.grid-nested1>.stars{ padding: 0 1% 0 10%;}
   /* .................................2 eme grid fille............................. */
   .grid-nested2 {
     display: grid;
