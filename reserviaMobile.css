@@ -291,7 +291,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line)
   border-top-left-radius: 15px ;
   margin:auto;
 }
-.grid-nested1 div:not(.title1,.title),.wraper1 div:not(.title1)
+.grid-nested1> div:not(.title1,.title),.wraper1> div:not(.title1)
 {
   border-radius: 15px;
   height: 100px;  
