@@ -205,7 +205,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
 {
   border:red solid 3px;
   border-radius: 15px;
-  border:1px solid rgb(240, 233, 233);
+  
   box-shadow: 1px 1px 1px 1px gray;
   }
 .title3 {
