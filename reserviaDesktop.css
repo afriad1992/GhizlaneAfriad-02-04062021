@@ -63,7 +63,7 @@ ul li a:hover
   color: #0065FC; 
   text-decoration: none;
 } 
-ul li a:nth-child(3){color:#F2F2F2;}
+ul li a:nth-child(3){color:#0065FC;}
 
 nav img{
 	width:60px;
@@ -202,10 +202,8 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
   height: 280px;
 }
 .wrapper1 div:not(.title3)
-{
-  border:white solid 3px;
+{ 
   border-radius: 15px;
-  
   box-shadow: 1px 1px 1px 1px gray;
   }
 .title3 {
