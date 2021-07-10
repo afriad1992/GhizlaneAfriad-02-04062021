@@ -57,12 +57,14 @@ ul li a
   color:gray;
 }
     
-ul li a:hover 
+ul li a:hover
 {
   border-top: #0065FC solid 2px ; 
   color: #0065FC; 
   text-decoration: none;
-}  
+} 
+ul li a:nth-last-child{}
+
 nav img{
 	width:60px;
 }
@@ -201,7 +203,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
 }
 .wrapper1 div:not(.title3)
 {
-  border:ghostwhite solid 3px;
+  border:white solid 3px;
   border-radius: 15px;
   border:1px solid rgb(240, 233, 233);
   box-shadow: 1px 1px 1px 1px gray;
