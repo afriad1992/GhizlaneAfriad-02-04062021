@@ -345,7 +345,7 @@ height: 75%;
     border-radius: 20px;
     padding-left: 20px;
     padding-right: 20px;
-    height: 28em; 
+    height: 26em; 
   }
 .grid-nested1 div img 
   {
@@ -362,7 +362,7 @@ height: 75%;
     border-radius: 15px;
     background-color:white;
     padding: 2%;
-    height:9em;
+    height:8.5em;
   }
 .grid-nested1>div .stars{ padding: 0 1% 0 10%;}
   /* .................................2 eme grid fille............................. */
@@ -376,7 +376,7 @@ height: 75%;
     padding-left: 20px;
     padding-right: 20px; 
     margin-top:0;
-    height:24em;
+    height:26em;
   }
 .grid-nested2 > div > div
 {
