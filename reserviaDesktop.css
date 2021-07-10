@@ -50,11 +50,11 @@ nav
   display:flex;
   list-style: none;
 }
-.active {color:#0065FC;
+ul li:last-child a {color:#0065FC;
 padding: 10px 20px 0 20px;
-  text-decoration: none;
+text-decoration: none;
 }
-ul li a:not(:nth-child(3))
+ul li:not(:last-child) a
 {
   padding: 10px 20px 0 20px;
   text-decoration: none;
@@ -296,7 +296,7 @@ height: 75%;
 /*................................ footer........................................ */
 #footer
 {
-  height:10000px;
+  height:100px;
   background-color: #F2F2F2;
 }
            
@@ -363,7 +363,7 @@ height: 75%;
     background-color:white;
     padding: 2%;
   }
-.grid-nested1>.stars{ padding: 0 1% 0 10%;}
+.grid-nested1 .stars{ padding: 0 1% 0 10%;}
   /* .................................2 eme grid fille............................. */
   .grid-nested2 {
     display: grid;
