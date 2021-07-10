@@ -124,6 +124,7 @@ body
   margin-top: 30px;
   width: 60%;
 }
+#choix>div span:hover{color:#0065FC;}
 
 #filtre{
   font-family: ralewayBold;
