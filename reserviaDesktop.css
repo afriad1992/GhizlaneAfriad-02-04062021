@@ -209,7 +209,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
 .wrapper1 div:not(.title3)
 { 
   border-radius: 15px;
-  box-shadow: 15px 15px 15px 15px gainsboro;
+  box-shadow: 1px 1px 1px 1px gainsboro;
   }
 .title3 {
 /* padding-top: 10px; */
@@ -362,7 +362,7 @@ height: 75%;
     border-radius: 15px;
     background-color:white;
     padding: 2%;
-	  height:8em;
+    height:9.5em;
   }
 .grid-nested1>div .stars{ padding: 0 1% 0 10%;}
   /* .................................2 eme grid fille............................. */
