@@ -340,7 +340,7 @@ height: 75%;
     display: grid;
     grid-template-columns:repeat(3,1fr);
     grid-template-rows:8% repeat(2,1fr) 8%;
-    grid-gap:4%;
+    gap:30px 30px;
     background-color:   #F2F2F2;
     border-radius: 20px;
     padding-left: 20px;
@@ -363,7 +363,7 @@ height: 75%;
     background-color:white;
     padding: 2%;
   }
-.grid-nested1 .stars{ padding: 0 1% 0 10%;}
+.grid-nested1>div .stars{ padding: 0 1% 0 10%;}
   /* .................................2 eme grid fille............................. */
   .grid-nested2 {
     display: grid;
