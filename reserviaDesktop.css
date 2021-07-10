@@ -63,7 +63,7 @@ ul li a:hover
   color: #0065FC; 
   text-decoration: none;
 } 
-ul li a:nth-last-child{}
+ul li a:nth-child(3){color:#F2F2F2;}
 
 nav img{
 	width:60px;
@@ -190,7 +190,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
   margin-top:30px;
 }
   
-  /*...................... 2 eme grid (activités à marseille)......................................*/
+  /*...................... 2 eme grid (actvités à marseille)......................................*/
 .wrapper1{
   display: grid;
   grid-template-columns: repeat(4,1fr);  
@@ -203,7 +203,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
 }
 .wrapper1 div:not(.title3)
 {
-  border:red solid 3px;
+  border:white solid 3px;
   border-radius: 15px;
   
   box-shadow: 1px 1px 1px 1px gray;
