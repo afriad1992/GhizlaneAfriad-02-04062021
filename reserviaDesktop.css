@@ -161,7 +161,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
 .fa-info-circle
 {
   margin-left: 10px;
-  padding-left: initial;
+  padding-left: 10px;
   color: white;
   background-color: #0065FC;
 }
@@ -209,7 +209,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
 .wrapper1 div:not(.title3)
 { 
   border-radius: 15px;
-  box-shadow: 15px 15px 15px 15px #fff;
+  box-shadow: 15px 15px 15px 15px gainsboro;
   }
 .title3 {
 /* padding-top: 10px; */
@@ -220,49 +220,49 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
   font-size: small;
 }
 
-.wrapper1 div:nth-child(2n)
+.wrapper1 div:nth-child(2)
 {
   grid-column: 1/2;
   grid-row: 2/6;
 }
-.wrapper1 div:nth-child(3n) 
+.wrapper1 div:nth-child(3) 
 {
   grid-column: 2/3;
   grid-row: 2/4;
 }
-.wrapper1 div:nth-child(3n) img 
+.wrapper1 div:nth-child(3) img 
 {
  height: 75%; 
 }
-.wrapper1 div:nth-child(4n) img
+.wrapper1 div:nth-child(4) img
 {
   height: 68%; 
 }
-.wrapper1 div:nth-child(7n) img 
+.wrapper1 div:nth-child(7) img 
 {
   height: 78%; 
 }
-.wrapper1 div:nth-child(6n) img 
+.wrapper1 div:nth-child(6) img 
 {
 height: 75%; 
 }
-.wrapper1 div:nth-child(4n) 
+.wrapper1 div:nth-child(4) 
 {
   grid-column:2/3;
   grid-row: 4/6;
 }
-.wrapper1 div:nth-child(5n) 
+.wrapper1 div:nth-child(5) 
 {
   grid-column:3/4;
   grid-row: 2/6;
 }
   
-.wrapper1 div:nth-child(6n) 
+.wrapper1 div:nth-child(6) 
 {
   grid-column:4/5;
   grid-row: 2/4;
 }
-.wrapper1 div:nth-child(7n) 
+.wrapper1 div:nth-child(7) 
 {
   grid-column:4/5;
   grid-row: 4/6;
@@ -362,6 +362,7 @@ height: 75%;
     border-radius: 15px;
     background-color:white;
     padding: 2%;
+	  height:8em;
   }
 .grid-nested1>div .stars{ padding: 0 1% 0 10%;}
   /* .................................2 eme grid fille............................. */
