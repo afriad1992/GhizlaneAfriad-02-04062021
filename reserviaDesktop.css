@@ -50,7 +50,11 @@ nav
   display:flex;
   list-style: none;
 }
-ul li a
+ul li a:nth-child(3){color:#0065FC;
+padding: 10px 20px 0 20px;
+  text-decoration: none;
+}
+ul li a:not(:nth-child(3))
 {
   padding: 10px 20px 0 20px;
   text-decoration: none;
@@ -63,7 +67,7 @@ ul li a:hover
   color: #0065FC; 
   text-decoration: none;
 } 
-ul li a:nth-child(3){color:#0065FC;}
+
 
 nav img{
 	width:60px;
@@ -204,7 +208,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) {
 .wrapper1 div:not(.title3)
 { 
   border-radius: 15px;
-  box-shadow: 1px 1px 1px 1px gray;
+  box-shadow: 1px 1px 1px 1px #fff;
   }
 .title3 {
 /* padding-top: 10px; */
