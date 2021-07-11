@@ -189,6 +189,7 @@ font-size:small;
   row-gap: 10px;
   flex-wrap: wrap;
 }
+#choix >div span:hover{color:#0065FC;}
 #choix div:nth-child(3){
   order:5;
   margin-top:36px;
@@ -240,7 +241,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line)
 }
 .fa-info-circle
 {                
-  margin-right: 10px;               
+  margin-right: 12px;       
   padding-left: initial;
   color: white;
   background-color: #0065FC;
@@ -398,10 +399,9 @@ border-bottom-left-radius: 15px ;
 }
 .wrapper1 div:not(.title3)
 {
-  border:ghostwhite solid 3px;
+  
   border-radius: 15px;
-  border:1px solid rgb(240, 233, 233);
-  box-shadow: 1px 1px 1px 1px gray;
+  box-shadow: 0px 1px 1px 0px #F2F2F2;
   height: 140px;
 }
 .wrapper1 div img 
