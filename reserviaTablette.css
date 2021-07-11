@@ -121,6 +121,7 @@ body{
   margin-top: 30px;
   justify-content: space-between;
 }
+#choix > div span:hover{color:#0065FC;}
 
 #filtre
 {
