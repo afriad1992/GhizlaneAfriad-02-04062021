@@ -297,7 +297,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line)
 .grid-nested1> div:not(.title1,.title),.wraper1> div:not(.title1)
 {
   border-radius: 15px;
-  height: 100px;  
+  height: 115px;  
   background-color:white;
   padding: 1%;
 }
@@ -332,7 +332,7 @@ border-bottom-left-radius: 15px ;
 .grid-nested2 > div:not(.title2)
 {
   display: flex;
-  height: 50px;
+  height: 60px;
   padding: 1%;
 }
 
