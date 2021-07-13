@@ -3,33 +3,33 @@
 @font-face 
 {
   font-family: ralewayBold;
-  src: url(static/Raleway-Bold.ttf); 
+  src: url(../static/Raleway-Bold.ttf); 
 }
 @font-face 
 {
   font-family: ralewaySemiBold;
-  src: url(static/Raleway-SemiBold.ttf);
+  src: url(../static/Raleway-SemiBold.ttf);
 }
 @font-face 
 {
   font-family: think-italic;
-  src: url(static/Raleway-LightItalic.ttf);
+  src: url(../static/Raleway-LightItalic.ttf);
 }
 @font-face 
 {
   font-family: regular;
-  src: url(static/Raleway-Regular.ttf);
+  src: url(../static/Raleway-Regular.ttf);
 }
 
 @font-face 
 {
   font-family: light;
-  src: url(static/Raleway-ExtraLight.ttf);
+  src: url(../static/Raleway-ExtraLight.ttf);
 }
 
 @font-face {
   font-family: extraBold;
-  src: url(static/Raleway-ExtraBold.ttf);
+  src: url(../static/Raleway-ExtraBold.ttf);
 }
 #italic
 {
