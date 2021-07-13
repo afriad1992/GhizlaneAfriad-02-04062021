@@ -91,6 +91,7 @@ nav img{
   outline: none;
   border: none ; 
 }
+
 input[type="text"]{outline-style:none ;}
 .fa-map-marker-alt{font-size: small;
   padding:8px;
@@ -99,6 +100,7 @@ input[type="text"]{outline-style:none ;}
   background-color:  #F2F2F2;
   width: 3%;  
 } 
+
 .searchButton {
   height: 28px;
   background: #0065FC;
@@ -109,12 +111,14 @@ input[type="text"]{outline-style:none ;}
   position: absolute;
   right: 0;
 }
+
 body
 {
   margin:5% 3% 3% 3%;
 }
-/* 
-    ..........................  filtres et categorie .......................................*/
+
+/*  ..........................  filtres et categorie .......................................*/
+
 #choix
 {
   display: flex;
@@ -384,6 +388,7 @@ height: 75%;
   margin:0; 
   padding: 0;
   height: 70px;
+  width:65%;
 }
 
   .grid-nested2 div img {
@@ -461,7 +466,8 @@ height: 75%;
   border-radius: 15px;
 }
 
-.style2{font-family:light ;
+.style2{
+  font-family:light ;
   font-size:0.5em;
   letter-spacing: initial;
   margin: 0;
