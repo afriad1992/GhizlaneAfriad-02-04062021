@@ -230,7 +230,7 @@ font-family: ralewayBold;
 float: right;
 }
 
-i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line)
+i:not(.fa-info-circle, .fa-map-marker-alt, .fa-star, .fa-chart-line)
 {
   background-color:#DEEBFF;
   border-radius: 50%;
@@ -241,8 +241,7 @@ i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line)
   margin:0;
   width: 10%;
 }
-.fa-info-circle
-{                
+.fa-info-circle {                
   margin-right: 12px;       
   padding-left: initial;
   color: white;
