@@ -229,8 +229,18 @@ font-family: ralewayBold;
 {
 float: right;
 }
-
-i:not(.fa-info-circle, .fa-map-marker-alt, .fa-star, .fa-chart-line)
+ i:not(.fa-map-marker-alt, .fa-star, .fa-chart-line)
+{
+  background-color:#DEEBFF;
+  border-radius: 50%;
+  border: 1x solid grey;
+  padding: 8px;
+  color :#0065FC;
+  font-size: small;
+  margin:0;
+  width: 10%;
+}
+/* i:not(.fa-info-circle, .fa-map-marker-alt, .fa-star, .fa-chart-line)
 {
   background-color:#DEEBFF;
   border-radius: 50%;
@@ -251,7 +261,7 @@ i:not(.fa-info-circle, .fa-map-marker-alt, .fa-star, .fa-chart-line)
   position:absolute;
   top:0;
 }
-
+ */
 #italic 
 { 
   position: relative;
