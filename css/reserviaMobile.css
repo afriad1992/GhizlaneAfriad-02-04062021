@@ -102,7 +102,7 @@ li a
   text-decoration: none;
   color:gray;
   margin: auto;
-  padding: auto;
+  
   text-decoration: none;
 }
 
@@ -215,7 +215,7 @@ font-size:small;
 
 #choix div span
 {
-  padding: auto;
+ 
   margin: auto;
 }
 #choix div:not(#filtre)
