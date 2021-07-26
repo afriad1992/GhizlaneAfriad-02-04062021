@@ -144,11 +144,10 @@ position: relative;
   float: right;
 }
 
-i:not(.fa-info-circle,.fa-map-marker-alt,.fa-star,.fa-chart-line) 
+#choix i 
 {
   background-color:#DEEBFF;
   border-radius: 50%;
-  border: 1x solid grey;
   padding: 8px;
   color :#0065FC;
   font-size: xx-small;
@@ -361,7 +360,13 @@ color: black;
 }
 .grid-nested1 div a {text-decoration: none;
   color: black;}
-.grid-nested1 div:not(.title1,.title),.wraper1 div:not(.title1)
+/* .grid-nested1 div:not(.title1,.title),.wraper1 div:not(.title1)
+{
+  border-radius: 15px;
+  background-color:white;
+  padding: 2%;
+} */
+.grid-nested1 div,.wraper1 div
 {
   border-radius: 15px;
   background-color:white;
