@@ -103,7 +103,7 @@ input[type="text"]{outline-style:none ;}
 
 .searchButton {
   height: 28px;
-  background: #0065FC;
+  background-color: #0065FC;
   text-align: center;
   color: #fff;
   border-radius: 0 10px 10px 0;
@@ -398,7 +398,7 @@ height: 75%;
   padding: 0;
   height: 70px;
   width:100%;
-  border: 2px solide white;
+  border: 2px solid white;
 }
 .grid-nested2 div a {text-decoration: none;
   height: 70px;
