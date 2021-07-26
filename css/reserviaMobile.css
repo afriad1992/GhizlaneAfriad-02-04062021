@@ -233,7 +233,6 @@ float: right;
 {
   background-color:#DEEBFF;
   border-radius: 50%;
-  border: 1px solid grey;
   padding: 8px;
   color :#0065FC;
   font-size: small;
@@ -250,7 +249,7 @@ float: right;
   font-size: small;
   margin:0;
   width: 10%;
-}
+} */
 .fa-info-circle {                
   margin-right: 12px;       
   padding-left: initial;
@@ -261,7 +260,7 @@ float: right;
   position:absolute;
   top:0;
 }
- */
+
 #italic 
 { 
   position: relative;
