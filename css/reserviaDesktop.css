@@ -402,7 +402,8 @@ height: 75%;
 }
 .grid-nested2 div a {text-decoration: none;
   height: 70px;
-color: black;}
+color: black;
+}
   .grid-nested2 div img {
     object-fit: cover;
     width: 100%;
