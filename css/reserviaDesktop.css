@@ -34,7 +34,7 @@
   src: url(static/Raleway-ExtraBold.ttf);
 }
 /* ...................barre de navigation ....................................*/
-menu
+nav
 {
   display: flex;
   font-size:x-small;
@@ -43,7 +43,7 @@ menu
   margin-left:0;
   padding-left:0;
 }
-nav
+menu
 {
   right: 0;
   position:absolute;
@@ -72,7 +72,7 @@ ul li a:hover
 } 
 
 
-menu img{
+nav img{
  width:60px;
  
  
