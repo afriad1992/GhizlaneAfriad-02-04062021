@@ -377,6 +377,7 @@ color: black;
   padding: 2%;
 }
 .grid-nested1>.stars{ padding: 0 1% 0 10%;}
+.title{background-color: #F2F2F2;}
 
 /* .................................2 eme grid fille............................. */
 .grid-nested2 
