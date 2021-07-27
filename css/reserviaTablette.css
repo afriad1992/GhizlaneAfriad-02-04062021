@@ -45,13 +45,12 @@ nav
   font-family:ralewayBold ;
   position:relative;
 }
-menu{
-  right: 0;
-  position:absolute;
-}
+
 ul{
   display:flex;
   list-style: none;
+  right: 0;
+  position:absolute;
 }
 ul li a
 {
@@ -69,6 +68,7 @@ ul li a:hover
   color: #0065FC; 
   text-decoration: none;
 }  
+nav img{width:60px;}
 
 /* ..................................barre de recherche..........................*/      
 .search {
