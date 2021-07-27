@@ -52,7 +52,7 @@ nav
 {
   display:flex;
   list-style: none;
-  left: 0;
+  right: 0;
   position:absolute;
 }
 ul li:last-child a {color:#0065FC;
