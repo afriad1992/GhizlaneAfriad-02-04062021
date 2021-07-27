@@ -33,6 +33,7 @@
   font-family: extraBold;
   src: url(static/Raleway-ExtraBold.ttf);
 }
+#hidden{display:none;}
 /* ...................barre de navigation ....................................*/
 nav
 {
