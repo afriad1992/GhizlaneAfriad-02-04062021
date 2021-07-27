@@ -37,7 +37,7 @@ body
   margin:5% 7% 3% 7%;
 }
 /* ...................barre de navigation ....................................*/
-menu
+nav
 {
   display: flex;
   flex-direction: column;
@@ -45,7 +45,7 @@ menu
   position: relative;
   font-family:ralewayBold ;
 }
-nav 
+menu 
 {
   width: 100%;
 } 
