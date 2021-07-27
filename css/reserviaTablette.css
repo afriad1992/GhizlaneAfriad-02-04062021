@@ -38,14 +38,14 @@
   display: block;
 }
 /* ...................barre de navigation ....................................*/
-menu
+nav
 {
   display: flex;
   font-size:x-small;
   font-family:ralewayBold ;
   position:relative;
 }
-nav{
+menu{
   right: 0;
   position:absolute;
 }
