@@ -391,7 +391,7 @@ height: 75%;
   }
 .grid-nested1>p {padding: 0 1% 3% 10%;}
 
-.grid-nested1>div .stars{ padding: 0 1% 3% 10%;}
+.grid-nested1>div .stars{ padding: 0 1% 0% 10%;}
   /* .................................2 eme grid fille............................. */
   .grid-nested2 {
     display: grid;
