@@ -393,7 +393,7 @@ height: 75%;
    border: 3px solid white;
 	  
   }
-.grid-nested1>p {padding: 0 1% 3% 10%;}
+.grid-nested1>div>a>p {padding: 0 1% 3% 10%;}
 
  .grid-nested1>div .stars{/* padding: 0 1% 0% 10%; */
 margin:0 1% 0% 10%;}
