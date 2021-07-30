@@ -505,9 +505,10 @@ height: 80px;
 }
 .grid-nested1 .style1{line-height: 0.5em;
 margin: 0;
-  padding: 5% 1% 10% 10%;}
+  padding: 5% 1% 0% 10%;}
 .grid-nested2 .style1{line-height: 1.5em;
-  padding: 5% 1% 3% 10%;
+  padding: 10% 1% 0% 10%;
+  margin-bottom:0;
 }
 .grid-nested2>div:not(.title2)
 {
