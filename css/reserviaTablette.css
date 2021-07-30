@@ -370,7 +370,7 @@ color: black;
   background-color:white;
   padding: 2%;
 } */
-.grid-nested1 div,.wraper1 div
+.grid-nested1 >div,.wraper1 >div
 {
   border-radius: 15px;
   background-color:white;
